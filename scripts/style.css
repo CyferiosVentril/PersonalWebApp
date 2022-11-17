@@ -14,3 +14,9 @@ body{
     border:1px solid #cccccc;
     margin:5px;
 }
+.flex-item2{
+    padding:10px;
+    border:1px solid #cccccc;
+    margin:5px;
+    width:20px;
+}
