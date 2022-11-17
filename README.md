@@ -1,6 +1,10 @@
-# PersonalWebApp
-Yep
-
-Created by Cyferious on October 25, at 9:25 AM
-
-Modified by Cyferious on October 26, at 8:49 AM
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="scripts/style.css">
+    </head>
+    <body>
+        <h1>
+            Hi
+        </h1>
+    </body>
+</html>
