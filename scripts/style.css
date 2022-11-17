@@ -18,6 +18,8 @@ body{
     padding:10px;
     border:1px solid #cccccc;
     margin:5px;
-    width:40px;
+    width:80px;
     flex-flow:row wrap;
+    justify-content: flex-start;
+    display:flex;
 }
